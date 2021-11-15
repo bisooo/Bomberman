@@ -14,7 +14,7 @@ enhance the bomberman's abilites; so the idea is to navigate the map `Map` and e
 are what restrict movement.
 
 There are 2 different types of enemies `Enemy` in the game, the first one being Pacman `<` which is a slower enemy that moves horizontally and switches 
-directions randomly. The other enemy is Dollar`$` which is slightly faster and moves vertically.
+directions randomly. The other enemy is Dollar `$` which is slightly faster and moves vertically.
 
 To eliminate the enemies the bomberman has 2 main weapons `Bomb` in his arsenal; he can either drop a normal bomb `BombA` which detonates after a countdown
 of 2 seconds, or he can drop a remote bomb `BombB` which he can detonate from anywhere at anytime.
